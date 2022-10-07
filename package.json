@@ -1,0 +1,24 @@
+{
+  "name": "express-js-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World Express JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha26/Express-JS-Hello-World.git"
+  },
+  "author": "Muhammad Taha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taha26/Express-JS-Hello-World/issues"
+  },
+  "homepage": "https://github.com/taha26/Express-JS-Hello-World#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
